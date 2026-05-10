@@ -1,0 +1,6 @@
+{
+  "name": "Demo Table Layout Login",
+  "description": "A mobile-style login screen based on a classic Android TableLayout design, featuring remember password functionality and simulated authentication.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
